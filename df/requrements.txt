@@ -1,9 +1,0 @@
-python==3.8
-tensorflow==2.4
-tensorflow-gpu==2.4.1
-tensorflow-hub==0.8.0
-tensorflow-datasets==1.2.0
-keras==2.4.3
-numpy
-wandb
-tabulate
