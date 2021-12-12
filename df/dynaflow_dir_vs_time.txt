@@ -1,0 +1,291 @@
+DIRECTIONAL
+[INFO] TRAINING
+[INFO] loading cw_defended-closed-1000_training data ...
+[INFO] start training model for feature cw_defended-closed-1000_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-1000_training is 0.028674999251961708
+[INFO] Validation accuracy for cw_defended-closed-1000_training is 0.026799999177455902
+[INFO] Testing accuracy for cw_defended-closed-1000_training is 0.031599998474121094
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Dynaflow/cw_defended-closed-1000_training
+[INFO] loading cw_defended-closed-100_training data ...
+[INFO] start training model for feature cw_defended-closed-100_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-100_training is 0.02487500011920929
+[INFO] Validation accuracy for cw_defended-closed-100_training is 0.02319999970495701
+[INFO] Testing accuracy for cw_defended-closed-100_training is 0.024399999529123306
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Dynaflow/cw_defended-closed-100_training
+[INFO] loading cw_defended-closed-10_training data ...
+[INFO] start training model for feature cw_defended-closed-10_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-10_training is 0.029224999248981476
+[INFO] Validation accuracy for cw_defended-closed-10_training is 0.027799999341368675
+[INFO] Testing accuracy for cw_defended-closed-10_training is 0.0272000003606081
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Dynaflow/cw_defended-closed-10_training
+[INFO] loading cw_defended-closed-1_training data ...
+[INFO] start training model for feature cw_defended-closed-1_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-1_training is 0.028950000181794167
+[INFO] Validation accuracy for cw_defended-closed-1_training is 0.02979999966919422
+[INFO] Testing accuracy for cw_defended-closed-1_training is 0.028999999165534973
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Dynaflow/cw_defended-closed-1_training
+[INFO] loading cw_defended-closed-500_training data ...
+[INFO] start training model for feature cw_defended-closed-500_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-500_training is 0.02944999933242798
+[INFO] Validation accuracy for cw_defended-closed-500_training is 0.029200000688433647
+[INFO] Testing accuracy for cw_defended-closed-500_training is 0.03020000085234642
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Dynaflow/cw_defended-closed-500_training
+[INFO] Summary for Accuracy:
+feature                              train    valid    test
+--------------------------------  --------  -------  ------
+cw_defended-closed-1000_training  0.028675   0.0268  0.0316
+cw_defended-closed-100_training   0.024875   0.0232  0.0244
+cw_defended-closed-10_training    0.029225   0.0278  0.0272
+cw_defended-closed-1_training     0.02895    0.0298  0.029
+cw_defended-closed-500_training   0.02945    0.0292  0.0302
+
+[INFO] EMBEDDINGS
+[INFO] saving to /mnt/ds3lab-scratch/veichta/Embeddings/AWF/Dynaflow
+[INFO] loading cw_defended-closed-1000_training data ...
+[INFO] create path /mnt/ds3lab-scratch/veichta/Embeddings/AWF/Dynaflow
+[INFO] loading cw_defended-closed-100_training data ...
+[INFO] loading cw_defended-closed-10_training data ...
+[INFO] loading cw_defended-closed-1_training data ...
+[INFO] loading cw_defended-closed-500_training data ...
+[INFO] Summary Embeddings:
+created embeddings
+---------------------------------------------------------------------
+cw_defended-closed-1000_training-raw.npz
+cw_defended-closed-1000_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-100_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-10_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-1_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-500_training.npz
+cw_defended-closed-100_training-raw.npz
+cw_defended-closed-100_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-100_training-cw_defended-closed-100_training.npz
+cw_defended-closed-100_training-cw_defended-closed-10_training.npz
+cw_defended-closed-100_training-cw_defended-closed-1_training.npz
+cw_defended-closed-100_training-cw_defended-closed-500_training.npz
+cw_defended-closed-10_training-raw.npz
+cw_defended-closed-10_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-10_training-cw_defended-closed-100_training.npz
+cw_defended-closed-10_training-cw_defended-closed-10_training.npz
+cw_defended-closed-10_training-cw_defended-closed-1_training.npz
+cw_defended-closed-10_training-cw_defended-closed-500_training.npz
+cw_defended-closed-1_training-raw.npz
+cw_defended-closed-1_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-1_training-cw_defended-closed-100_training.npz
+cw_defended-closed-1_training-cw_defended-closed-10_training.npz
+cw_defended-closed-1_training-cw_defended-closed-1_training.npz
+cw_defended-closed-1_training-cw_defended-closed-500_training.npz
+cw_defended-closed-500_training-raw.npz
+cw_defended-closed-500_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-500_training-cw_defended-closed-100_training.npz
+cw_defended-closed-500_training-cw_defended-closed-10_training.npz
+cw_defended-closed-500_training-cw_defended-closed-1_training.npz
+cw_defended-closed-500_training-cw_defended-closed-500_training.npz
+
+[INFO] BER ESTIMATION
+[INFO] Summary for cw_defended-closed-1000_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.891501                  0.894564
+cw_defended-closed-1000_training                 0.941256                  0.8999
+cw_defended-closed-100_training                  0.91825                   0.903259
+cw_defended-closed-10_training                   0.919644                  0.8999
+cw_defended-closed-1_training                    0.930301                  0.8999
+cw_defended-closed-500_training                  0.910401                  0.895607
+
+[INFO] Summary for cw_defended-closed-100_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.912929                  0.8847
+cw_defended-closed-1000_training                 0.88756                   0.888531
+cw_defended-closed-100_training                  0.886598                  0.891501
+cw_defended-closed-10_training                   0.892512                  0.893532
+cw_defended-closed-1_training                    0.892512                  0.882837
+cw_defended-closed-500_training                  0.88756                   0.889511
+
+[INFO] Summary for cw_defended-closed-10_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.873966                  0.889511
+cw_defended-closed-1000_training                 0.894564                  0.915542
+cw_defended-closed-100_training                  0.88756                   0.898808
+cw_defended-closed-10_training                   0.881005                  0.905573
+cw_defended-closed-1_training                    0.886598                  0.889511
+cw_defended-closed-500_training                  0.885645                  0.886598
+
+[INFO] Summary for cw_defended-closed-1_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.87743                   0.876554
+cw_defended-closed-1000_training                 0.894564                  0.883764
+cw_defended-closed-100_training                  0.909167                  0.878313
+cw_defended-closed-10_training                   0.881917                  0.881917
+cw_defended-closed-1_training                    0.883764                  0.883764
+cw_defended-closed-500_training                  0.871434                  0.874822
+
+[INFO] Summary for cw_defended-closed-500_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.892512                  0.86733
+cw_defended-closed-1000_training                 0.8847                    0.872271
+cw_defended-closed-100_training                  0.883764                  0.882837
+cw_defended-closed-10_training                   0.8847                    0.8847
+cw_defended-closed-1_training                    0.882837                  0.874822
+cw_defended-closed-500_training                  0.875685                  0.881005
+
+[INFO] Summary for BER estimation:
+Feature                             Bayes Error Rate (min)    Maximum Accuracy
+--------------------------------  ------------------------  ------------------
+cw_defended-closed-1000_training                  0.894564            0.105436
+cw_defended-closed-100_training                   0.882837            0.117163
+cw_defended-closed-10_training                    0.886598            0.113402
+cw_defended-closed-1_training                     0.874822            0.125178
+cw_defended-closed-500_training                   0.86733             0.13267
+
+
+TIMING
+[INFO] TRAINING
+[INFO] loading cw_defended-closed-1000_training data ...
+[INFO] start training model for feature cw_defended-closed-1000_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-1000_training is 0.21879999339580536
+[INFO] Validation accuracy for cw_defended-closed-1000_training is 0.21060000360012054
+[INFO] Testing accuracy for cw_defended-closed-1000_training is 0.2101999968290329
+[INFO] loading cw_defended-closed-100_training data ...
+[INFO] start training model for feature cw_defended-closed-100_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-100_training is 0.21627500653266907
+[INFO] Validation accuracy for cw_defended-closed-100_training is 0.21040000021457672
+[INFO] Testing accuracy for cw_defended-closed-100_training is 0.21199999749660492
+[INFO] loading cw_defended-closed-10_training data ...
+[INFO] start training model for feature cw_defended-closed-10_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-10_training is 0.1150749996304512
+[INFO] Validation accuracy for cw_defended-closed-10_training is 0.10300000011920929
+[INFO] Testing accuracy for cw_defended-closed-10_training is 0.10920000076293945
+[INFO] loading cw_defended-closed-1_training data ...
+[INFO] start training model for feature cw_defended-closed-1_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-1_training is 0.037300001829862595
+[INFO] Validation accuracy for cw_defended-closed-1_training is 0.036400001496076584
+[INFO] Testing accuracy for cw_defended-closed-1_training is 0.03620000183582306
+[INFO] loading cw_defended-closed-500_training data ...
+[INFO] start training model for feature cw_defended-closed-500_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for cw_defended-closed-500_training is 0.21154999732971191
+[INFO] Validation accuracy for cw_defended-closed-500_training is 0.20980000495910645
+[INFO] Testing accuracy for cw_defended-closed-500_training is 0.20679999887943268
+[INFO] Summary for Accuracy:
+feature                              train    valid    test
+--------------------------------  --------  -------  ------
+cw_defended-closed-1000_training  0.2188     0.2106  0.2102
+cw_defended-closed-100_training   0.216275   0.2104  0.212
+cw_defended-closed-10_training    0.115075   0.103   0.1092
+cw_defended-closed-1_training     0.0373     0.0364  0.0362
+cw_defended-closed-500_training   0.21155    0.2098  0.2068
+
+[INFO] EMBEDDINGS
+[INFO] saving to /mnt/ds3lab-scratch/veichta/Embeddings/AWF/Dynaflow
+[INFO] loading cw_defended-closed-1000_training data ...
+[INFO] loading cw_defended-closed-100_training data ...
+[INFO] loading cw_defended-closed-10_training data ...
+[INFO] loading cw_defended-closed-1_training data ...
+[INFO] loading cw_defended-closed-500_training data ...
+[INFO] Summary Embeddings:
+created embeddings
+---------------------------------------------------------------------
+cw_defended-closed-1000_training-raw.npz
+cw_defended-closed-1000_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-100_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-10_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-1_training.npz
+cw_defended-closed-1000_training-cw_defended-closed-500_training.npz
+cw_defended-closed-100_training-raw.npz
+cw_defended-closed-100_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-100_training-cw_defended-closed-100_training.npz
+cw_defended-closed-100_training-cw_defended-closed-10_training.npz
+cw_defended-closed-100_training-cw_defended-closed-1_training.npz
+cw_defended-closed-100_training-cw_defended-closed-500_training.npz
+cw_defended-closed-10_training-raw.npz
+cw_defended-closed-10_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-10_training-cw_defended-closed-100_training.npz
+cw_defended-closed-10_training-cw_defended-closed-10_training.npz
+cw_defended-closed-10_training-cw_defended-closed-1_training.npz
+cw_defended-closed-10_training-cw_defended-closed-500_training.npz
+cw_defended-closed-1_training-raw.npz
+cw_defended-closed-1_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-1_training-cw_defended-closed-100_training.npz
+cw_defended-closed-1_training-cw_defended-closed-10_training.npz
+cw_defended-closed-1_training-cw_defended-closed-1_training.npz
+cw_defended-closed-1_training-cw_defended-closed-500_training.npz
+cw_defended-closed-500_training-raw.npz
+cw_defended-closed-500_training-cw_defended-closed-1000_training.npz
+cw_defended-closed-500_training-cw_defended-closed-100_training.npz
+cw_defended-closed-500_training-cw_defended-closed-10_training.npz
+cw_defended-closed-500_training-cw_defended-closed-1_training.npz
+cw_defended-closed-500_training-cw_defended-closed-500_training.npz
+
+[INFO] BER ESTIMATION
+[INFO] Summary for cw_defended-closed-1000_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.632635                  0.626047
+cw_defended-closed-1000_training                 0.59425                   0.595001
+cw_defended-closed-100_training                  0.590268                  0.601827
+cw_defended-closed-10_training                   0.631528                  0.642466
+cw_defended-closed-1_training                    0.706472                  0.71498
+cw_defended-closed-500_training                  0.597011                  0.603617
+
+[INFO] Summary for cw_defended-closed-100_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.618775                  0.626047
+cw_defended-closed-1000_training                 0.600046                  0.59802
+cw_defended-closed-100_training                  0.591011                  0.595754
+cw_defended-closed-10_training                   0.630701                  0.640477
+cw_defended-closed-1_training                    0.68952                   0.702657
+cw_defended-closed-500_training                  0.604386                  0.595001
+
+[INFO] Summary for cw_defended-closed-10_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.741452                  0.737109
+cw_defended-closed-1000_training                 0.739864                  0.741851
+cw_defended-closed-100_training                  0.745873                  0.736327
+cw_defended-closed-10_training                   0.737893                  0.736327
+cw_defended-closed-1_training                    0.757505                  0.763108
+cw_defended-closed-500_training                  0.751618                  0.739074
+
+[INFO] Summary for cw_defended-closed-1_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.955533                  0.874822
+cw_defended-closed-1000_training                 0.93735                   0.865726
+cw_defended-closed-100_training                  0.9701                    0.883764
+cw_defended-closed-10_training                   0.961858                  0.871434
+cw_defended-closed-1_training                    0.924                     0.879203
+cw_defended-closed-500_training                  0.91825                   0.872271
+
+[INFO] Summary for cw_defended-closed-500_training estimation:
+Model Feature Map                   Test Bayes Error Rate    Valid Bayes Error Rate
+--------------------------------  -----------------------  ------------------------
+raw                                              0.6296                    0.630425
+cw_defended-closed-1000_training                 0.602849                  0.595001
+cw_defended-closed-100_training                  0.603361                  0.599032
+cw_defended-closed-10_training                   0.656123                  0.642751
+cw_defended-closed-1_training                    0.704038                  0.717148
+cw_defended-closed-500_training                  0.609035                  0.599539
+
+[INFO] Summary for BER estimation:
+Feature                             Bayes Error Rate (min)    Maximum Accuracy
+--------------------------------  ------------------------  ------------------
+cw_defended-closed-1000_training                  0.595001            0.404999
+cw_defended-closed-100_training                   0.595001            0.404999
+cw_defended-closed-10_training                    0.736327            0.263673
+cw_defended-closed-1_training                     0.865726            0.134274
+cw_defended-closed-500_training                   0.595001            0.404999
+

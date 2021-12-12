@@ -1,0 +1,779 @@
+[INFO] TRAINING
+[INFO] loading tamaraw_0.005_0.005 data ...
+[INFO] TRAINING
+[INFO] loading tamaraw_0.005_0.005_training data ...
+[INFO] start training model for feature tamaraw_0.005_0.005_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.005_0.005_training is 0.015837499871850014
+[INFO] Validation accuracy for tamaraw_0.005_0.005_training is 0.016599999740719795
+[INFO] Testing accuracy for tamaraw_0.005_0.005_training is 0.01640000008046627
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.005_0.005_training
+[INFO] loading tamaraw_0.005_0.010_training data ...
+[INFO] start training model for feature tamaraw_0.005_0.010_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.005_0.010_training is 0.024575000628829002
+[INFO] Validation accuracy for tamaraw_0.005_0.010_training is 0.024900000542402267
+[INFO] Testing accuracy for tamaraw_0.005_0.010_training is 0.024399999529123306
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.005_0.010_training
+[INFO] loading tamaraw_0.005_0.025_training data ...
+[INFO] start training model for feature tamaraw_0.005_0.025_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.005_0.025_training is 0.032487500458955765
+[INFO] Validation accuracy for tamaraw_0.005_0.025_training is 0.03150000050663948
+[INFO] Testing accuracy for tamaraw_0.005_0.025_training is 0.031700000166893005
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.005_0.025_training
+[INFO] loading tamaraw_0.005_0.050_training data ...
+[INFO] start training model for feature tamaraw_0.005_0.050_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.005_0.050_training is 0.031987499445676804
+[INFO] Validation accuracy for tamaraw_0.005_0.050_training is 0.03350000083446503
+[INFO] Testing accuracy for tamaraw_0.005_0.050_training is 0.030700000002980232
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.005_0.050_training
+[INFO] loading tamaraw_0.010_0.005_training data ...
+[INFO] start training model for feature tamaraw_0.010_0.005_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.010_0.005_training is 0.024687500670552254
+[INFO] Validation accuracy for tamaraw_0.010_0.005_training is 0.023900000378489494
+[INFO] Testing accuracy for tamaraw_0.010_0.005_training is 0.023800000548362732
+[INFO] loading tamaraw_0.010_0.010_training data ...
+[INFO] start training model for feature tamaraw_0.010_0.010_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.010_0.010_training is 0.035337500274181366
+[INFO] Validation accuracy for tamaraw_0.010_0.010_training is 0.03480000048875809
+[INFO] Testing accuracy for tamaraw_0.010_0.010_training is 0.034699998795986176
+[INFO] loading tamaraw_0.010_0.025_training data ...
+[INFO] start training model for feature tamaraw_0.010_0.025_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.010_0.025_training is 0.056425001472234726
+[INFO] Validation accuracy for tamaraw_0.010_0.025_training is 0.05770000070333481
+[INFO] Testing accuracy for tamaraw_0.010_0.025_training is 0.05510000139474869
+[INFO] loading tamaraw_0.010_0.050_training data ...
+[INFO] start training model for feature tamaraw_0.010_0.050_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.010_0.050_training is 0.057075001299381256
+[INFO] Validation accuracy for tamaraw_0.010_0.050_training is 0.05550000071525574
+[INFO] Testing accuracy for tamaraw_0.010_0.050_training is 0.05649999901652336
+[INFO] loading tamaraw_0.025_0.005_training data ...
+[INFO] start training model for feature tamaraw_0.025_0.005_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.025_0.005_training is 0.029224999248981476
+[INFO] Validation accuracy for tamaraw_0.025_0.005_training is 0.027400000020861626
+[INFO] Testing accuracy for tamaraw_0.025_0.005_training is 0.028300000354647636
+[INFO] loading tamaraw_0.025_0.010_training data ...
+[INFO] start training model for feature tamaraw_0.025_0.010_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.025_0.010_training is 0.04961249977350235
+[INFO] Validation accuracy for tamaraw_0.025_0.010_training is 0.05119999870657921
+[INFO] Testing accuracy for tamaraw_0.025_0.010_training is 0.05079999938607216
+[INFO] loading tamaraw_0.025_0.025_training data ...
+[INFO] start training model for feature tamaraw_0.025_0.025_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.025_0.025_training is 0.08555000275373459
+[INFO] Validation accuracy for tamaraw_0.025_0.025_training is 0.08429999649524689
+[INFO] Testing accuracy for tamaraw_0.025_0.025_training is 0.08709999918937683
+[INFO] loading tamaraw_0.025_0.050_training data ...
+[INFO] start training model for feature tamaraw_0.025_0.050_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.025_0.050_training is 0.09780000150203705
+[INFO] Validation accuracy for tamaraw_0.025_0.050_training is 0.09849999845027924
+[INFO] Testing accuracy for tamaraw_0.025_0.050_training is 0.09740000218153
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.025_0.050_training
+[INFO] loading tamaraw_0.050_0.005_training data ...
+[INFO] start training model for feature tamaraw_0.050_0.005_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.050_0.005_training is 0.0328500010073185
+[INFO] Validation accuracy for tamaraw_0.050_0.005_training is 0.03189999982714653
+[INFO] Testing accuracy for tamaraw_0.050_0.005_training is 0.030300000682473183
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.050_0.005_training
+[INFO] loading tamaraw_0.050_0.010_training data ...
+[INFO] start training model for feature tamaraw_0.050_0.010_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.050_0.010_training is 0.05676250159740448
+[INFO] Validation accuracy for tamaraw_0.050_0.010_training is 0.055399999022483826
+[INFO] Testing accuracy for tamaraw_0.050_0.010_training is 0.055799998342990875
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.050_0.010_training
+[INFO] loading tamaraw_0.050_0.025_training data ...
+[INFO] start training model for feature tamaraw_0.050_0.025_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.050_0.025_training is 0.09917499870061874
+[INFO] Validation accuracy for tamaraw_0.050_0.025_training is 0.09700000286102295
+[INFO] Testing accuracy for tamaraw_0.050_0.025_training is 0.09870000183582306
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.050_0.025_training
+[INFO] loading tamaraw_0.050_0.050_training data ...
+[INFO] start training model for feature tamaraw_0.050_0.050_training ...
+[INFO] evaluating the model ...
+[INFO] Training accuracy for tamaraw_0.050_0.050_training is 0.11890000104904175
+[INFO] Validation accuracy for tamaraw_0.050_0.050_training is 0.11879999935626984
+[INFO] Testing accuracy for tamaraw_0.050_0.050_training is 0.11869999766349792
+[INFO] create path and saving model to /mnt/ds3lab-scratch/veichta/Models/AWF/Tamaraw/tamaraw_0.050_0.050_training
+[INFO] Summary for Accuracy:
+feature                         train_acc    valid_acc    test_acc
+----------------------------  -----------  -----------  ----------
+tamaraw_0.005_0.005_training    0.0158375       0.0166      0.0164
+tamaraw_0.005_0.010_training    0.024575        0.0249      0.0244
+tamaraw_0.005_0.025_training    0.0324875       0.0315      0.0317
+tamaraw_0.005_0.050_training    0.0319875       0.0335      0.0307
+tamaraw_0.010_0.005_training    0.0246875       0.0239      0.0238
+tamaraw_0.010_0.010_training    0.0353375       0.0348      0.0347
+tamaraw_0.010_0.025_training    0.056425        0.0577      0.0551
+tamaraw_0.010_0.050_training    0.057075        0.0555      0.0565
+tamaraw_0.025_0.005_training    0.029225        0.0274      0.0283
+tamaraw_0.025_0.010_training    0.0496125       0.0512      0.0508
+tamaraw_0.025_0.025_training    0.08555         0.0843      0.0871
+tamaraw_0.025_0.050_training    0.0978          0.0985      0.0974
+tamaraw_0.050_0.005_training    0.03285         0.0319      0.0303
+tamaraw_0.050_0.010_training    0.0567625       0.0554      0.0558
+tamaraw_0.050_0.025_training    0.099175        0.097       0.0987
+tamaraw_0.050_0.050_training    0.1189          0.1188      0.1187
+
+[INFO] EMBEDDINGS
+[INFO] saving to /mnt/ds3lab-scratch/veichta/Embeddings/AWF/Dynaflow
+[INFO] loading tamaraw_0.005_0.005_training data ...
+[INFO] loading tamaraw_0.005_0.010_training data ...
+[INFO] loading tamaraw_0.005_0.025_training data ...
+[INFO] loading tamaraw_0.005_0.050_training data ...
+[INFO] loading tamaraw_0.010_0.005_training data ...
+[INFO] loading tamaraw_0.010_0.010_training data ...
+[INFO] loading tamaraw_0.010_0.025_training data ...
+[INFO] loading tamaraw_0.010_0.050_training data ...
+[INFO] loading tamaraw_0.025_0.005_training data ...
+[INFO] loading tamaraw_0.025_0.010_training data ...
+[INFO] loading tamaraw_0.025_0.025_training data ...
+[INFO] loading tamaraw_0.025_0.050_training data ...
+[INFO] loading tamaraw_0.050_0.005_training data ...
+[INFO] loading tamaraw_0.050_0.010_training data ...
+[INFO] loading tamaraw_0.050_0.025_training data ...
+[INFO] loading tamaraw_0.050_0.050_training data ...
+[INFO] Summary Embeddings:
+created embeddings
+-------------------------------------------------------------
+tamaraw_0.005_0.005_training-raw.npz
+tamaraw_0.005_0.005_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.005_0.005_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.005_0.010_training-raw.npz
+tamaraw_0.005_0.010_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.005_0.010_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.005_0.025_training-raw.npz
+tamaraw_0.005_0.025_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.005_0.025_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.005_0.050_training-raw.npz
+tamaraw_0.005_0.050_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.005_0.050_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.010_0.005_training-raw.npz
+tamaraw_0.010_0.005_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.010_0.005_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.010_0.010_training-raw.npz
+tamaraw_0.010_0.010_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.010_0.010_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.010_0.025_training-raw.npz
+tamaraw_0.010_0.025_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.010_0.025_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.010_0.050_training-raw.npz
+tamaraw_0.010_0.050_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.010_0.050_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.025_0.005_training-raw.npz
+tamaraw_0.025_0.005_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.025_0.005_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.025_0.010_training-raw.npz
+tamaraw_0.025_0.010_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.025_0.010_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.025_0.025_training-raw.npz
+tamaraw_0.025_0.025_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.025_0.025_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.025_0.050_training-raw.npz
+tamaraw_0.025_0.050_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.025_0.050_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.050_0.005_training-raw.npz
+tamaraw_0.050_0.005_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.050_0.005_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.050_0.010_training-raw.npz
+tamaraw_0.050_0.010_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.050_0.010_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.050_0.025_training-raw.npz
+tamaraw_0.050_0.025_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.050_0.025_training-tamaraw_0.050_0.050_training.npz
+tamaraw_0.050_0.050_training-raw.npz
+tamaraw_0.050_0.050_training-tamaraw_0.005_0.005_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.005_0.010_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.005_0.025_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.005_0.050_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.010_0.005_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.010_0.010_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.010_0.025_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.010_0.050_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.025_0.005_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.025_0.010_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.025_0.025_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.025_0.050_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.050_0.005_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.050_0.010_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.050_0.025_training.npz
+tamaraw_0.050_0.050_training-tamaraw_0.050_0.050_training.npz
+
+[INFO] BER ESTIMATION
+[INFO] Summary for tamaraw_0.005_0.005_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.916884                  0.915542
+tamaraw_0.005_0.005_training                 0.916884                  0.915542
+tamaraw_0.005_0.010_training                 0.920351                  0.919644
+tamaraw_0.005_0.025_training                 0.912289                  0.913574
+tamaraw_0.005_0.050_training                 0.919644                  0.917564
+tamaraw_0.010_0.005_training                 0.924                     0.919644
+tamaraw_0.010_0.010_training                 0.913574                  0.91621
+tamaraw_0.010_0.025_training                 0.91621                   0.912929
+tamaraw_0.010_0.050_training                 0.935502                  0.92629
+tamaraw_0.025_0.005_training                 0.916884                  0.924754
+tamaraw_0.025_0.010_training                 0.91825                   0.919644
+tamaraw_0.025_0.025_training                 0.920351                  0.91621
+tamaraw_0.025_0.050_training                 0.918944                  0.924
+tamaraw_0.050_0.005_training                 0.922517                  0.920351
+tamaraw_0.050_0.010_training                 0.919644                  0.921065
+tamaraw_0.050_0.025_training                 0.921787                  0.916884
+tamaraw_0.050_0.050_training                 0.919644                  0.918944
+
+[INFO] Summary for tamaraw_0.005_0.010_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.900451                  0.895607
+tamaraw_0.005_0.005_training                 0.897729                  0.90269
+tamaraw_0.005_0.010_training                 0.894047                  0.893532
+tamaraw_0.005_0.025_training                 0.897194                  0.898267
+tamaraw_0.005_0.050_training                 0.898808                  0.895084
+tamaraw_0.010_0.005_training                 0.900451                  0.894564
+tamaraw_0.010_0.010_training                 0.897729                  0.897194
+tamaraw_0.010_0.025_training                 0.893532                  0.894047
+tamaraw_0.010_0.050_training                 0.895084                  0.889511
+tamaraw_0.025_0.005_training                 0.890005                  0.894047
+tamaraw_0.025_0.010_training                 0.892005                  0.894047
+tamaraw_0.025_0.025_training                 0.897194                  0.891
+tamaraw_0.025_0.050_training                 0.894564                  0.897729
+tamaraw_0.050_0.005_training                 0.896133                  0.899352
+tamaraw_0.050_0.010_training                 0.893532                  0.896662
+tamaraw_0.050_0.025_training                 0.891501                  0.895607
+tamaraw_0.050_0.050_training                 0.894564                  0.894047
+
+[INFO] Summary for tamaraw_0.005_0.025_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.875685                  0.876991
+tamaraw_0.005_0.005_training                 0.875685                  0.871852
+tamaraw_0.005_0.010_training                 0.871017                  0.874393
+tamaraw_0.005_0.025_training                 0.876554                  0.870602
+tamaraw_0.005_0.050_training                 0.873966                  0.874822
+tamaraw_0.010_0.005_training                 0.876991                  0.871017
+tamaraw_0.010_0.010_training                 0.87743                   0.873966
+tamaraw_0.010_0.025_training                 0.875252                  0.873115
+tamaraw_0.010_0.050_training                 0.873115                  0.871434
+tamaraw_0.025_0.005_training                 0.880551                  0.876991
+tamaraw_0.025_0.010_training                 0.876554                  0.873966
+tamaraw_0.025_0.025_training                 0.871017                  0.873115
+tamaraw_0.025_0.050_training                 0.872693                  0.872271
+tamaraw_0.050_0.005_training                 0.877871                  0.879203
+tamaraw_0.050_0.010_training                 0.878757                  0.87743
+tamaraw_0.050_0.025_training                 0.874822                  0.87743
+tamaraw_0.050_0.050_training                 0.868139                  0.871434
+
+[INFO] Summary for tamaraw_0.005_0.050_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.858                     0.869775
+tamaraw_0.005_0.005_training                 0.864932                  0.873115
+tamaraw_0.005_0.010_training                 0.86027                   0.870188
+tamaraw_0.005_0.025_training                 0.858                     0.869364
+tamaraw_0.005_0.050_training                 0.861419                  0.866125
+tamaraw_0.010_0.005_training                 0.859509                  0.875252
+tamaraw_0.010_0.010_training                 0.881005                  0.888044
+tamaraw_0.010_0.025_training                 0.858                     0.868139
+tamaraw_0.010_0.050_training                 0.857626                  0.870602
+tamaraw_0.025_0.005_training                 0.861035                  0.871434
+tamaraw_0.025_0.010_training                 0.860652                  0.873115
+tamaraw_0.025_0.025_training                 0.859509                  0.866927
+tamaraw_0.025_0.050_training                 0.859889                  0.868546
+tamaraw_0.050_0.005_training                 0.861419                  0.870188
+tamaraw_0.050_0.010_training                 0.858                     0.871017
+tamaraw_0.050_0.025_training                 0.861419                  0.870602
+tamaraw_0.050_0.050_training                 0.858376                  0.866927
+
+[INFO] Summary for tamaraw_0.010_0.005_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.893532                  0.90269
+tamaraw_0.005_0.005_training                 0.888044                  0.904408
+tamaraw_0.005_0.010_training                 0.895607                  0.894564
+tamaraw_0.005_0.025_training                 0.8847                    0.895084
+tamaraw_0.005_0.050_training                 0.88756                   0.905573
+tamaraw_0.010_0.005_training                 0.894047                  0.899352
+tamaraw_0.010_0.010_training                 0.887078                  0.897729
+tamaraw_0.010_0.025_training                 0.892005                  0.8999
+tamaraw_0.010_0.050_training                 0.931983                  0.923254
+tamaraw_0.025_0.005_training                 0.890501                  0.895084
+tamaraw_0.025_0.010_training                 0.892512                  0.906753
+tamaraw_0.025_0.025_training                 0.888531                  0.902125
+tamaraw_0.025_0.050_training                 0.891501                  0.904988
+tamaraw_0.050_0.005_training                 0.885172                  0.911025
+tamaraw_0.050_0.010_training                 0.890005                  0.901006
+tamaraw_0.050_0.025_training                 0.891501                  0.907951
+tamaraw_0.050_0.050_training                 0.88902                   0.905573
+
+[INFO] Summary for tamaraw_0.010_0.010_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.872271                  0.876118
+tamaraw_0.005_0.005_training                 0.874393                  0.87354
+tamaraw_0.005_0.010_training                 0.872693                  0.877871
+tamaraw_0.005_0.025_training                 0.87354                   0.866927
+tamaraw_0.005_0.050_training                 0.873115                  0.878313
+tamaraw_0.010_0.005_training                 0.876991                  0.868139
+tamaraw_0.010_0.010_training                 0.872271                  0.875685
+tamaraw_0.010_0.025_training                 0.873966                  0.868955
+tamaraw_0.010_0.050_training                 0.888044                  0.882837
+tamaraw_0.025_0.005_training                 0.867734                  0.86375
+tamaraw_0.025_0.010_training                 0.875252                  0.870188
+tamaraw_0.025_0.025_training                 0.868546                  0.870602
+tamaraw_0.025_0.050_training                 0.917564                  0.872271
+tamaraw_0.050_0.005_training                 0.86733                   0.876118
+tamaraw_0.050_0.010_training                 0.871017                  0.86733
+tamaraw_0.050_0.025_training                 0.868955                  0.87743
+tamaraw_0.050_0.050_training                 0.871434                  0.868546
+
+[INFO] Summary for tamaraw_0.010_0.025_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.855401                  0.829255
+tamaraw_0.005_0.005_training                 0.838448                  0.832051
+tamaraw_0.005_0.010_training                 0.856508                  0.832679
+tamaraw_0.005_0.025_training                 0.855769                  0.832994
+tamaraw_0.005_0.050_training                 0.854667                  0.837147
+tamaraw_0.010_0.005_training                 0.845813                  0.836179
+tamaraw_0.010_0.010_training                 0.85285                   0.857252
+tamaraw_0.010_0.025_training                 0.851414                  0.83426
+tamaraw_0.010_0.050_training                 0.851414                  0.831425
+tamaraw_0.025_0.005_training                 0.840421                  0.835536
+tamaraw_0.025_0.010_training                 0.840421                  0.831425
+tamaraw_0.025_0.025_training                 0.85688                   0.837796
+tamaraw_0.025_0.050_training                 0.85249                   0.831425
+tamaraw_0.050_0.005_training                 0.851414                  0.831738
+tamaraw_0.050_0.010_training                 0.855769                  0.832364
+tamaraw_0.050_0.025_training                 0.837147                  0.831738
+tamaraw_0.050_0.050_training                 0.851414                  0.830802
+
+[INFO] Summary for tamaraw_0.010_0.050_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.823507                  0.85249
+tamaraw_0.005_0.005_training                 0.822027                  0.829563
+tamaraw_0.005_0.010_training                 0.8253                    0.853574
+tamaraw_0.005_0.025_training                 0.822322                  0.853574
+tamaraw_0.005_0.050_training                 0.820852                  0.854302
+tamaraw_0.010_0.005_training                 0.82681                   0.832994
+tamaraw_0.010_0.010_training                 0.820268                  0.85285
+tamaraw_0.010_0.025_training                 0.8247                    0.854302
+tamaraw_0.010_0.050_training                 0.822913                  0.855033
+tamaraw_0.025_0.005_training                 0.822027                  0.832051
+tamaraw_0.025_0.010_training                 0.82321                   0.85213
+tamaraw_0.025_0.025_training                 0.8253                    0.828028
+tamaraw_0.025_0.050_training                 0.824102                  0.855769
+tamaraw_0.050_0.005_training                 0.822322                  0.830491
+tamaraw_0.050_0.010_training                 0.820852                  0.828334
+tamaraw_0.050_0.025_training                 0.819976                  0.853938
+tamaraw_0.050_0.050_training                 0.823507                  0.832364
+
+[INFO] Summary for tamaraw_0.025_0.005_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.88146                   0.892005
+tamaraw_0.005_0.005_training                 0.888044                  0.892005
+tamaraw_0.005_0.010_training                 0.884231                  0.885172
+tamaraw_0.005_0.025_training                 0.882837                  0.890005
+tamaraw_0.005_0.050_training                 0.880551                  0.885172
+tamaraw_0.010_0.005_training                 0.883299                  0.887078
+tamaraw_0.010_0.010_training                 0.885645                  0.892005
+tamaraw_0.010_0.025_training                 0.886598                  0.891501
+tamaraw_0.010_0.050_training                 0.87354                   0.887078
+tamaraw_0.025_0.005_training                 0.881005                  0.881917
+tamaraw_0.025_0.010_training                 0.88902                   0.887078
+tamaraw_0.025_0.025_training                 0.8847                    0.882376
+tamaraw_0.025_0.050_training                 0.884231                  0.891
+tamaraw_0.050_0.005_training                 0.881005                  0.890005
+tamaraw_0.050_0.010_training                 0.881005                  0.88902
+tamaraw_0.050_0.025_training                 0.88756                   0.88146
+tamaraw_0.050_0.050_training                 0.8801                    0.891
+
+[INFO] Summary for tamaraw_0.025_0.010_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.849288                  0.884231
+tamaraw_0.005_0.005_training                 0.855769                  0.885172
+tamaraw_0.005_0.010_training                 0.855769                  0.887078
+tamaraw_0.005_0.025_training                 0.851414                  0.88902
+tamaraw_0.005_0.050_training                 0.847887                  0.888044
+tamaraw_0.010_0.005_training                 0.85285                   0.882837
+tamaraw_0.010_0.010_training                 0.841417                  0.876991
+tamaraw_0.010_0.025_training                 0.837796                  0.879651
+tamaraw_0.010_0.050_training                 0.84964                   0.881917
+tamaraw_0.025_0.005_training                 0.843092                  0.878313
+tamaraw_0.025_0.010_training                 0.848236                  0.881005
+tamaraw_0.025_0.025_training                 0.845813                  0.885645
+tamaraw_0.025_0.050_training                 0.851058                  0.884231
+tamaraw_0.050_0.005_training                 0.848586                  0.881917
+tamaraw_0.050_0.010_training                 0.848586                  0.885172
+tamaraw_0.050_0.025_training                 0.848936                  0.881917
+tamaraw_0.050_0.050_training                 0.837471                  0.878757
+
+[INFO] Summary for tamaraw_0.025_0.025_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.808978                  0.797836
+tamaraw_0.005_0.005_training                 0.808705                  0.80174
+tamaraw_0.005_0.010_training                 0.811179                  0.807074
+tamaraw_0.005_0.025_training                 0.815097                  0.81035
+tamaraw_0.005_0.050_training                 0.819395                  0.807345
+tamaraw_0.010_0.005_training                 0.799648                  0.806533
+tamaraw_0.010_0.010_training                 0.808432                  0.799908
+tamaraw_0.010_0.025_training                 0.807074                  0.795786
+tamaraw_0.010_0.050_training                 0.791251                  0.798352
+tamaraw_0.025_0.005_training                 0.803059                  0.796552
+tamaraw_0.025_0.010_training                 0.790506                  0.796552
+tamaraw_0.025_0.025_training                 0.789516                  0.796297
+tamaraw_0.025_0.050_training                 0.795786                  0.798352
+tamaraw_0.050_0.005_training                 0.79001                   0.797579
+tamaraw_0.050_0.010_training                 0.79401                   0.799648
+tamaraw_0.050_0.025_training                 0.808705                  0.796297
+tamaraw_0.050_0.050_training                 0.807345                  0.799388
+
+[INFO] Summary for tamaraw_0.025_0.050_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.777762                  0.772464
+tamaraw_0.005_0.005_training                 0.781765                  0.766626
+tamaraw_0.005_0.010_training                 0.777995                  0.773148
+tamaraw_0.005_0.025_training                 0.783915                  0.774521
+tamaraw_0.005_0.050_training                 0.780107                  0.773833
+tamaraw_0.010_0.005_training                 0.778931                  0.779871
+tamaraw_0.010_0.010_training                 0.78129                   0.771103
+tamaraw_0.010_0.025_training                 0.777995                  0.772236
+tamaraw_0.010_0.050_training                 0.777762                  0.774063
+tamaraw_0.025_0.005_training                 0.774981                  0.771782
+tamaraw_0.025_0.010_training                 0.776599                  0.772464
+tamaraw_0.025_0.025_training                 0.778931                  0.771782
+tamaraw_0.025_0.050_training                 0.777296                  0.772236
+tamaraw_0.050_0.005_training                 0.78512                   0.772691
+tamaraw_0.050_0.010_training                 0.779401                  0.774292
+tamaraw_0.050_0.025_training                 0.780107                  0.772464
+tamaraw_0.050_0.050_training                 0.774981                  0.774751
+
+[INFO] Summary for tamaraw_0.050_0.005_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.871852                  0.871434
+tamaraw_0.005_0.005_training                 0.88146                   0.877871
+tamaraw_0.005_0.010_training                 0.871017                  0.869775
+tamaraw_0.005_0.025_training                 0.868955                  0.904988
+tamaraw_0.005_0.050_training                 0.870602                  0.900451
+tamaraw_0.010_0.005_training                 0.874393                  0.873966
+tamaraw_0.010_0.010_training                 0.871017                  0.875685
+tamaraw_0.010_0.025_training                 0.871434                  0.870188
+tamaraw_0.010_0.050_training                 0.871434                  0.87354
+tamaraw_0.025_0.005_training                 0.872271                  0.869775
+tamaraw_0.025_0.010_training                 0.867734                  0.90269
+tamaraw_0.025_0.025_training                 0.876554                  0.870188
+tamaraw_0.025_0.050_training                 0.868955                  0.897194
+tamaraw_0.050_0.005_training                 0.870602                  0.899352
+tamaraw_0.050_0.010_training                 0.869775                  0.869775
+tamaraw_0.050_0.025_training                 0.872271                  0.875252
+tamaraw_0.050_0.050_training                 0.870188                  0.901564
+
+[INFO] Summary for tamaraw_0.050_0.010_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.84009                   0.866125
+tamaraw_0.005_0.005_training                 0.846501                  0.871852
+tamaraw_0.005_0.010_training                 0.838775                  0.873115
+tamaraw_0.005_0.025_training                 0.844446                  0.884231
+tamaraw_0.005_0.050_training                 0.83976                   0.864537
+tamaraw_0.010_0.005_training                 0.845813                  0.872271
+tamaraw_0.010_0.010_training                 0.837471                  0.869775
+tamaraw_0.010_0.025_training                 0.838775                  0.864143
+tamaraw_0.010_0.050_training                 0.841417                  0.866927
+tamaraw_0.025_0.005_training                 0.836501                  0.868139
+tamaraw_0.025_0.010_training                 0.835536                  0.870188
+tamaraw_0.025_0.025_training                 0.835857                  0.84547
+tamaraw_0.025_0.050_training                 0.837147                  0.865726
+tamaraw_0.050_0.005_training                 0.833309                  0.84242
+tamaraw_0.050_0.010_training                 0.839431                  0.850702
+tamaraw_0.050_0.025_training                 0.833942                  0.847887
+tamaraw_0.050_0.050_training                 0.838122                  0.868546
+
+[INFO] Summary for tamaraw_0.050_0.025_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.787306                  0.787795
+tamaraw_0.005_0.005_training                 0.787795                  0.795023
+tamaraw_0.005_0.010_training                 0.799908                  0.797836
+tamaraw_0.005_0.025_training                 0.789516                  0.781765
+tamaraw_0.005_0.050_training                 0.786088                  0.789269
+tamaraw_0.010_0.005_training                 0.78853                   0.789516
+tamaraw_0.010_0.010_training                 0.784878                  0.787062
+tamaraw_0.010_0.025_training                 0.788285                  0.78755
+tamaraw_0.010_0.050_training                 0.782957                  0.786818
+tamaraw_0.025_0.005_training                 0.784396                  0.784155
+tamaraw_0.025_0.010_training                 0.784155                  0.784637
+tamaraw_0.025_0.025_training                 0.787306                  0.789516
+tamaraw_0.025_0.050_training                 0.787795                  0.787062
+tamaraw_0.050_0.005_training                 0.781765                  0.785603
+tamaraw_0.050_0.010_training                 0.786088                  0.784878
+tamaraw_0.050_0.025_training                 0.784396                  0.783915
+tamaraw_0.050_0.050_training                 0.78804                   0.785603
+
+[INFO] Summary for tamaraw_0.050_0.050_training estimation:
+Model Feature Map               Test Bayes Error Rate    Valid Bayes Error Rate
+----------------------------  -----------------------  ------------------------
+raw                                          0.753076                  0.757292
+tamaraw_0.005_0.005_training                 0.780343                  0.756443
+tamaraw_0.005_0.010_training                 0.771782                  0.754333
+tamaraw_0.005_0.025_training                 0.749756                  0.773376
+tamaraw_0.005_0.050_training                 0.773376                  0.757505
+tamaraw_0.010_0.005_training                 0.756655                  0.768853
+tamaraw_0.010_0.010_training                 0.750375                  0.754543
+tamaraw_0.010_0.025_training                 0.752034                  0.756655
+tamaraw_0.010_0.050_training                 0.74567                   0.755175
+tamaraw_0.025_0.005_training                 0.753076                  0.756019
+tamaraw_0.025_0.010_training                 0.770651                  0.745063
+tamaraw_0.025_0.025_training                 0.751203                  0.759644
+tamaraw_0.025_0.050_training                 0.748523                  0.758358
+tamaraw_0.050_0.005_training                 0.768406                  0.753704
+tamaraw_0.050_0.010_training                 0.772464                  0.75245
+tamaraw_0.050_0.025_training                 0.75245                   0.760505
+tamaraw_0.050_0.050_training                 0.769975                  0.752242
+
+[INFO] Summary for BER estimation:
+Feature                         Bayes Error Rate (min)    Maximum Accuracy
+----------------------------  ------------------------  ------------------
+tamaraw_0.005_0.005_training                  0.912929           0.0870714
+tamaraw_0.005_0.010_training                  0.889511           0.110489
+tamaraw_0.005_0.025_training                  0.870602           0.129398
+tamaraw_0.005_0.050_training                  0.866125           0.133875
+tamaraw_0.010_0.005_training                  0.894564           0.105436
+tamaraw_0.010_0.010_training                  0.86375            0.13625
+tamaraw_0.010_0.025_training                  0.829255           0.170745
+tamaraw_0.010_0.050_training                  0.828028           0.171972
+tamaraw_0.025_0.005_training                  0.88146            0.11854
+tamaraw_0.025_0.010_training                  0.876991           0.123009
+tamaraw_0.025_0.025_training                  0.795786           0.204214
+tamaraw_0.025_0.050_training                  0.766626           0.233374
+tamaraw_0.050_0.005_training                  0.869775           0.130225
+tamaraw_0.050_0.010_training                  0.84242            0.15758
+tamaraw_0.050_0.025_training                  0.781765           0.218235
+tamaraw_0.050_0.050_training                  0.745063           0.254937
+

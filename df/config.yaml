@@ -1,0 +1,27 @@
+# Configurations for the cluster
+CLUSTER: True
+GPUID: '7'
+MEMORY: 11
+
+# Features to evaluate
+FEATURES: [
+  'cw_defended-closed-1_training', 
+  'cw_defended-closed-10_training',
+  'cw_defended-closed-100_training',
+  'cw_defended-closed-500_training',
+  'cw_defended-closed-1000_training'
+] 
+
+#['NoDef', 'Front_T1', 'Front_T2', 'cs_buflo', 'tamaraw', 'wtfpad']
+#FEATURES: ['closed_1_training', 'closed_2_training', 'closed_3_training', 'closed_4_training', 'closed_5_training', 'closed_6_training', 'closed_7_training', 'closed_8_training', 'closed_9_training', 'closed_10_training', 'closed_11_training']
+
+# Path to data, model and embeddings
+PATH_TO_DATA: '/mnt/ds3lab-scratch/veichta/Datasets/AWF_dataset/Dynaflow'
+PATH_TO_MODEL: '/home/veichta/Models/Dynaflow'
+PATH_TO_EMBEDDINGS: '/mnt/ds3lab-scratch/veichta/Features/Dynaflow'
+
+NB_EPOCH: 40  # Number of training epoch (suggested 40)
+BATCH_SIZE: 128 # Batch size
+VERBOSE: 0 # Output display mode
+LENGTH: 5000 # Packet sequence length
+NB_CLASSES: 100 # Number of classes
